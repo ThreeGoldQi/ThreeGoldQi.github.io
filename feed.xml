@@ -1,0 +1,42 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+    <title>齐佳萱</title>
+    
+    <icon>https://threegoldqi.github.io/img/logo.png</icon>
+     
+    <subtitle>齐佳萱的博客</subtitle>
+    
+    <link href="https://threegoldqi.github.io/feed.xml" rel="self" />
+    
+    <link href="https://tyzhang.top/" rel="hub" />
+    
+    <link href="https://threegoldqi.github.io/" />
+    <updated>2025-02-04T07:21:42.659Z</updated>
+    <id>https://threegoldqi.github.io/</id>
+    
+    <author>
+        <name>齐佳萱</name>
+        
+        <email>qipeng166@gmail.com</email>
+        
+    </author>
+    
+    <generator uri="https://hexo.io/">Hexo</generator>
+    <webfeeds:cover image="https://cdn.jsdelivr.net/gh/hayschan/static@master/2020/12/gFn7zm.JPG" />
+    <webfeeds:icon>https://cdn.jsdelivr.net/gh/hayschan/static@master/2020/12/VAlBPs.png</webfeeds:icon>
+    <webfeeds:logo>https://cdn.jsdelivr.net/gh/hayschan/static@master/2020/12/XDzm9G.svg</webfeeds:logo>
+    <webfeeds:accentColor>0abab5</webfeeds:accentColor>
+    <webfeeds:related layout="card" target="browser" />
+    
+    <entry>
+        <title>我的2025年度规划</title>
+        <link href="https://threegoldqi.github.io/article/jiaxuan/" />
+        <id>https://threegoldqi.github.io/article/jiaxuan/</id>
+        <published>2025-02-03T16:00:00.000Z</published>
+        <updated>2025-02-04T07:21:42.659Z
+        </updated>
+            
+        <category term="我的人生" scheme="https://threegoldqi.github.io/tags/%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F/" />
+        
+    </entry>
+    
+</feed>
