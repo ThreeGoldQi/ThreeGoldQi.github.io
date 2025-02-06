@@ -10,7 +10,7 @@
     <link href="https://tyzhang.top/" rel="hub" />
     
     <link href="https://threegoldqi.github.io/" />
-    <updated>2025-02-04T13:22:26.279Z</updated>
+    <updated>2025-02-06T11:37:24.872Z</updated>
     <id>https://threegoldqi.github.io/</id>
     
     <author>
@@ -26,6 +26,26 @@
     <webfeeds:logo>https://cdn.jsdelivr.net/gh/hayschan/static@master/2020/12/XDzm9G.svg</webfeeds:logo>
     <webfeeds:accentColor>0abab5</webfeeds:accentColor>
     <webfeeds:related layout="card" target="browser" />
+    
+    <entry>
+        <title>影评系列</title>
+        <link href="https://threegoldqi.github.io/article/2025-2-6-moive/" />
+        <id>https://threegoldqi.github.io/article/2025-2-6-moive/</id>
+        <published>2025-02-05T16:00:00.000Z</published>
+        <updated>2025-02-06T11:37:24.872Z
+        </updated>
+        
+        <content type="html">
+            <![CDATA[ <h1><span id="觉醒年代">《觉醒年代》！</span></h1><p>考研学习政治的时候，涛涛老师推荐的这个电视剧，时间线是中国近代史，围绕着新文化运动和五四运动来展开的剧情。不得不说，真的是大制作啊，一词一句都很精良，值得学习其中人物的谈吐。</p> ]]>
+        </content>
+           
+        <summary type="html">&lt;h1&gt;&lt;span id=&quot;觉醒年代&quot;&gt;《觉醒年代》！&lt;/span&gt;&lt;/h1&gt;
+&lt;p&gt;考研学习政治的时候，涛涛老师推荐的这个电视剧，时间线是中国近代史，围绕着新文化运动和五四运动来展开的剧情。不得不说，真的是大制作啊，一词一句都很精良，值得学习其中人物的谈吐。&lt;/p&gt;
+</summary>
+            
+        <category term="记录生活" scheme="https://threegoldqi.github.io/tags/%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB/" />
+        
+    </entry>
     
     <entry>
         <title>我的2025年度规划</title>
