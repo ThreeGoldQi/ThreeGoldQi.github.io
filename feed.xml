@@ -28,27 +28,6 @@
     <webfeeds:related layout="card" target="browser" />
     
     <entry>
-        <title>计算机网络学习笔记</title>
-        <link href="https://threegoldqi.github.io/article/2025-2-13-Internet/" />
-        <id>https://threegoldqi.github.io/article/2025-2-13-Internet/</id>
-        <published>2025-02-12T16:00:00.000Z</published>
-        <updated>2025-04-13T11:17:42.794Z
-        </updated>
-        
-        <content type="html">
-            <![CDATA[ <h1><span id="一-计算机网络概述">一、计算机网络概述</span></h1><p>网络：许多计算机结点，通过链路链接起来，就是网络。<br>互联网(internet)：许多网络通过路由器链接起来。<br>因特网(Internet)：全球最大的互联网。使用TCP/IP协议。</p> ]]>
-        </content>
-           
-        <summary type="html">&lt;h1&gt;&lt;span id=&quot;一-计算机网络概述&quot;&gt;一、计算机网络概述&lt;/span&gt;&lt;/h1&gt;
-&lt;p&gt;网络：许多计算机结点，通过链路链接起来，就是网络。&lt;br&gt;
-互联网(internet)：许多网络通过路由器链接起来。&lt;br&gt;
-因特网(Internet)：全球最大的互联网。使用TC</summary>
-            
-        <category term="学习" scheme="https://threegoldqi.github.io/tags/%E5%AD%A6%E4%B9%A0/" />
-        
-    </entry>
-    
-    <entry>
         <title>随意录</title>
         <link href="https://threegoldqi.github.io/article/writing/" />
         <id>https://threegoldqi.github.io/article/writing/</id>
@@ -64,18 +43,6 @@
 &lt;p&gt;我发现啊，人有的时候不要装作迷茫，该清醒的时候就清醒。有的时候要明白自己到底想要什么，不要忘记自己本来的目标。最近这几天心情很down，干什么都提不起精神来，距离出分时间不多了，这段时间就</summary>
             
         <category term="我的人生" scheme="https://threegoldqi.github.io/tags/%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F/" />
-        
-    </entry>
-    
-    <entry>
-        <title>C语言终极学习笔记</title>
-        <link href="https://threegoldqi.github.io/article/C/" />
-        <id>https://threegoldqi.github.io/article/C/</id>
-        <published>2025-02-07T16:00:00.000Z</published>
-        <updated>2025-04-13T11:17:42.794Z
-        </updated>
-            
-        <category term="学习" scheme="https://threegoldqi.github.io/tags/%E5%AD%A6%E4%B9%A0/" />
         
     </entry>
     
