@@ -1,0 +1,120 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+    <title>Jacqui</title>
+    
+    <icon>https://threegoldqi.github.io/img/logo.png</icon>
+     
+    <subtitle>Jacqui的博客</subtitle>
+    
+    <link href="https://threegoldqi.github.io/feed.xml" rel="self" />
+    
+    <link href="https://tyzhang.top/" rel="hub" />
+    
+    <link href="https://threegoldqi.github.io/" />
+    <updated>2025-04-13T11:17:42.794Z</updated>
+    <id>https://threegoldqi.github.io/</id>
+    
+    <author>
+        <name>Jacqui</name>
+        
+        <email>qipeng166@gmail.com</email>
+        
+    </author>
+    
+    <generator uri="https://hexo.io/">Hexo</generator>
+    <webfeeds:cover image="https://cdn.jsdelivr.net/gh/hayschan/static@master/2020/12/gFn7zm.JPG" />
+    <webfeeds:icon>https://cdn.jsdelivr.net/gh/hayschan/static@master/2020/12/VAlBPs.png</webfeeds:icon>
+    <webfeeds:logo>https://cdn.jsdelivr.net/gh/hayschan/static@master/2020/12/XDzm9G.svg</webfeeds:logo>
+    <webfeeds:accentColor>0abab5</webfeeds:accentColor>
+    <webfeeds:related layout="card" target="browser" />
+    
+    <entry>
+        <title>计算机网络学习笔记</title>
+        <link href="https://threegoldqi.github.io/article/2025-2-13-Internet/" />
+        <id>https://threegoldqi.github.io/article/2025-2-13-Internet/</id>
+        <published>2025-02-12T16:00:00.000Z</published>
+        <updated>2025-04-13T11:17:42.794Z
+        </updated>
+        
+        <content type="html">
+            <![CDATA[ <h1><span id="一-计算机网络概述">一、计算机网络概述</span></h1><p>网络：许多计算机结点，通过链路链接起来，就是网络。<br>互联网(internet)：许多网络通过路由器链接起来。<br>因特网(Internet)：全球最大的互联网。使用TCP/IP协议。</p> ]]>
+        </content>
+           
+        <summary type="html">&lt;h1&gt;&lt;span id=&quot;一-计算机网络概述&quot;&gt;一、计算机网络概述&lt;/span&gt;&lt;/h1&gt;
+&lt;p&gt;网络：许多计算机结点，通过链路链接起来，就是网络。&lt;br&gt;
+互联网(internet)：许多网络通过路由器链接起来。&lt;br&gt;
+因特网(Internet)：全球最大的互联网。使用TC</summary>
+            
+        <category term="学习" scheme="https://threegoldqi.github.io/tags/%E5%AD%A6%E4%B9%A0/" />
+        
+    </entry>
+    
+    <entry>
+        <title>随意录</title>
+        <link href="https://threegoldqi.github.io/article/writing/" />
+        <id>https://threegoldqi.github.io/article/writing/</id>
+        <published>2025-02-07T16:00:00.000Z</published>
+        <updated>2025-04-13T11:17:42.794Z
+        </updated>
+        
+        <content type="html">
+            <![CDATA[ <h2><span id="202528">2025.2.8</span></h2><p>我发现啊，人有的时候不要装作迷茫，该清醒的时候就清醒。有的时候要明白自己到底想要什么，不要忘记自己本来的目标。最近这几天心情很down，干什么都提不起精神来，距离出分时间不多了，这段时间就把C语言学好，学习一下计算机的基础知识，运动，控制饮食就好。时刻提醒自己想要走的道路。<br>-如果考上研究生：我想在研一就开始准备考公，稳定有地位的工作是我的追求。<br>-如果没有考上研究生，我还是想考公务员，可是现实问题是我没有收入来源，考公也不是一次就能考上吧，所以呢，这条路还是没有那么容易的。</p><h2><span id="2025225">2025.2.25</span></h2><p>回答2.8日焦虑的自己，我考上啦！初试成绩292，真的真的比我预想的要高了好多哦，感谢上天保佑啊。那这样的话，接下来我要全心全意的准备复试，我不要给自己留下漏洞，下面20天拼啦！<br>回想去年一年，我好像一直都很痛苦，担心的这个结果，现在终于有了结果，我也要开始重新生活了！现在眼前好像有一束光照着我，这一年多亏了有宝宝陪着我！不然我自己早就崩溃了。接下来我会努力做好自己的本职工作，走好每一步脚印，为未来的选择早早的布局，要更加的乐观。对待事情淡然一点。<br><img src="D:\WorkSpaces\website\source\img\article"><br>现在的我坐在深圳大学城的图书馆里，这里面氛围真的很棒，我很喜欢，如果可以想在里面呆上一整天。好多人一起学习的感觉不错。</p> ]]>
+        </content>
+           
+        <summary type="html">&lt;h2&gt;&lt;span id=&quot;202528&quot;&gt;2025.2.8&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;我发现啊，人有的时候不要装作迷茫，该清醒的时候就清醒。有的时候要明白自己到底想要什么，不要忘记自己本来的目标。最近这几天心情很down，干什么都提不起精神来，距离出分时间不多了，这段时间就</summary>
+            
+        <category term="我的人生" scheme="https://threegoldqi.github.io/tags/%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F/" />
+        
+    </entry>
+    
+    <entry>
+        <title>C语言终极学习笔记</title>
+        <link href="https://threegoldqi.github.io/article/C/" />
+        <id>https://threegoldqi.github.io/article/C/</id>
+        <published>2025-02-07T16:00:00.000Z</published>
+        <updated>2025-04-13T11:17:42.794Z
+        </updated>
+            
+        <category term="学习" scheme="https://threegoldqi.github.io/tags/%E5%AD%A6%E4%B9%A0/" />
+        
+    </entry>
+    
+    <entry>
+        <title>影评系列</title>
+        <link href="https://threegoldqi.github.io/article/2025-2-6-moive/" />
+        <id>https://threegoldqi.github.io/article/2025-2-6-moive/</id>
+        <published>2025-02-05T16:00:00.000Z</published>
+        <updated>2025-04-13T11:17:42.794Z
+        </updated>
+        
+        <content type="html">
+            <![CDATA[ <h1><span id="觉醒年代">《觉醒年代》！</span></h1><p>考研学习政治的时候，涛涛老师推荐的这个电视剧，时间线是中国近代史，围绕着新文化运动和五四运动来展开的剧情。不得不说，真的是大制作啊，一词一句都很精良，值得学习其中人物的谈吐。<br>胡适之，在面对所有人与自己的思想不和的时候，他也没有与别人反目成仇，仍旧可以诚挚的对待陈独秀和李大钊。这个真的是个值得学习的地方。</p> ]]>
+        </content>
+           
+        <summary type="html">&lt;h1&gt;&lt;span id=&quot;觉醒年代&quot;&gt;《觉醒年代》！&lt;/span&gt;&lt;/h1&gt;
+&lt;p&gt;考研学习政治的时候，涛涛老师推荐的这个电视剧，时间线是中国近代史，围绕着新文化运动和五四运动来展开的剧情。不得不说，真的是大制作啊，一词一句都很精良，值得学习其中人物的谈吐。&lt;br&gt;
+胡适之，在</summary>
+            
+        <category term="记录生活" scheme="https://threegoldqi.github.io/tags/%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB/" />
+        
+    </entry>
+    
+    <entry>
+        <title>我的2025年度规划</title>
+        <link href="https://threegoldqi.github.io/article/jiaxuan/" />
+        <id>https://threegoldqi.github.io/article/jiaxuan/</id>
+        <published>2025-02-03T16:00:00.000Z</published>
+        <updated>2025-04-13T11:17:42.794Z
+        </updated>
+        
+        <content type="html">
+            <![CDATA[ <p>写这篇博客此刻是2025年2月4号，等待24号的成绩，下面的规划是对本月的规划，日后什么走向还不确定，无法对一整年有个清晰的认知，但在个人方面，对自己的生活状态要有所调整，规范自己。今年也要多读书，多学习各方面的知识，可以多看一些经典的影视剧，想创建一个自己的影评博客，记录心得，还可以创建读书博客，记录自己读过的书籍。在身体方面，多注意饮食健康，要减肥，运动运动运动！作息尽量保持规律吧，不要熬夜。2月份是自我提升的时期，天时地利人和，要好好利用起来！<br>在这一年内，我要快速的提升自己，趁现在有大把的时间。我要多多看书，多多提升自己的眼界。中国不差人，但是差人才，不要焦虑，先一步步的提升自己。穷人的孩子要做好大气晚成的准备。</p><h1><span id="初试成绩出之前的规划">初试成绩出之前的规划</span></h1><p>专业上：<br>-学通C语言<br>-看知识点八股文</p><p>眼界：<br>-看经典影视作品<br>-坚持看新闻联播，了解国家大事。在B站看各个国家形式分析讲解的视频<br>-多看书多看书，先看完《历史的面孔》<br>-多了解一下名人事迹；在B站看学习<br>-学习摄影，要成为有摄影特长的人。学会用lr<br>-今年做自己的b站账号</p><p>自我管理：<br>-控制饮食，清淡健康<br>-学习化妆，穿搭<br>-坚持适量的居家运动，要调整走姿和体型驼背<br>-记得护理好皮肤；定期做面膜<br>-坚持泡脚</p><h1><span id="我进复试啦">我进复试啦！</span></h1><p>接下来全力准备复试，复试之后再安排自己的新生活！！</p> ]]>
+        </content>
+           
+        <summary type="html">&lt;p&gt;写这篇博客此刻是2025年2月4号，等待24号的成绩，下面的规划是对本月的规划，日后什么走向还不确定，无法对一整年有个清晰的认知，但在个人方面，对自己的生活状态要有所调整，规范自己。今年也要多读书，多学习各方面的知识，可以多看一些经典的影视剧，想创建一个自己的影评博客，记录</summary>
+            
+        <category term="我的人生" scheme="https://threegoldqi.github.io/tags/%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F/" />
+        
+    </entry>
+    
+</feed>
