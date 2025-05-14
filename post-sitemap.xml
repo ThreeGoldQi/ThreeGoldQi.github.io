@@ -10,7 +10,15 @@
 
     <url>
         <loc>https://threegoldqi.github.io/article/jiaxuan/</loc>
-        <lastmod>2025-04-16T08:54:12.093Z</lastmod>
+        <lastmod>2025-05-14T11:33:29.130Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://threegoldqi.github.io/article/writing/</loc>
+        <lastmod>2025-05-14T11:09:45.108Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -19,14 +27,6 @@
     <url>
         <loc>https://threegoldqi.github.io/article/2025-2-6-moive/</loc>
         <lastmod>2025-04-16T06:55:29.571Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://threegoldqi.github.io/article/writing/</loc>
-        <lastmod>2025-04-13T11:17:42.794Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
