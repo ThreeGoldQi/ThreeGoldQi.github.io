@@ -14,11 +14,11 @@
     <script async defer src="https://buttons.github.io/buttons.js"></script>
     <title>
         
-          Jacqui的博客 | JiaXuan Blog
+          Python学习笔记 - Jacqui的博客 | JiaXuan Blog
         
     </title>
 
-    <link rel="canonical" href="https://threegoldqi.github.io/tags/记录生活/">
+    <link rel="canonical" href="https://threegoldqi.github.io/article/python/">
 
     <!-- Bootstrap Core CSS -->
     
@@ -147,8 +147,8 @@
 <style type="text/css">
     header.intro-header{
         
-            background-image: url('/img/header_img/city.png')
-            /*page*/
+            background-image: url('/img/article/nanshan.png')
+            /*post*/
         
     }
     
@@ -161,10 +161,18 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 
-                    <div class="site-heading">
-                        <h1>Jacqui</h1>
-                        <!--<hr class="small">-->
-                        <span class="subheading">路漫漫其修远兮，吾将上下而求索</span>
+                    <div class="post-heading">
+                        <div class="tags">
+                            
+                              <a class="tag" href="/tags/#学习" title="学习">学习</a>
+                            
+                        </div>
+                        <h1>Python学习笔记</h1>
+                        <!-- <h2 class="subheading">打好基础</h2> -->
+                        <span class="meta">
+                            齐佳萱 on
+                            2025-05-19
+                        </span>
                     </div>
                 
 
@@ -273,310 +281,170 @@
 
 
     <!-- Main Content -->
-    <!-- Main Content -->
-<div class="container">
-    <div class="row">
-        
+    <!-- Modify by Yu-Hsuan Yen -->
 
-<!-- USE SIDEBAR -->
-    <!-- Post Container -->
+<!-- Post Content -->
+<article>
+    <div class="container">
+        <div class="row">
+
+            <!-- Post Container -->
             <div class="
-                col-lg-8 col-lg-offset-1
-                col-md-8 col-md-offset-1
-                col-sm-12
-                col-xs-12
-                post-container
-            ">
+                col-lg-8 col-lg-offset-2
+                col-md-10 col-md-offset-1
+                post-container">
+
 				
-                
-<!-- Main Content -->
-<div class="container">
-    <div class="row">
-        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 archive">
-            <!-- 归档列表 -->
-            
-            
+                <h1><span id="python学习笔记">Python学习笔记</span></h1>
+<h4><span id="注释">注释：</span></h4>
+<p>’ ’ ’  或者  &quot; &quot; &quot;</p>
+<h4><span id="标识符的命名规则">标识符的命名规则：</span></h4>
+<ol>
+<li>由数字、字母、下划线组成，不能以数字开头</li>
+<li>严格区分大小写，age和Age是两个不同的标识符</li>
+<li>不能使用关键字命名<br>
+我习惯采用大驼峰命名法，即每个单词的首字母要大写</li>
+</ol>
+<h4><span id="变量">变量</span></h4>
+<ol>
+<li>Python 中的变量赋值不需要类型声明</li>
+<li>如何赋值：变量名 = 值          例如：name = “北大”       print(name)</li>
+<li>可以多个变量同时赋值          例如：x = y = z = 12</li>
+</ol>
+<h4><span id="数据类型">数据类型</span></h4>
+<p>有六个基本数据类型：Number（数字）  String（字符串）  List（列表） Tuple （元组） Set（集合）  Dictionary（字典）</p>
 
-             <!-- 归档列表 -->
-
-            
-            <div class="one-tag-list">
-                <span class="fa fa-calendar-times-o listing-seperator" id="2025">
-                    <span class="tag-text">2025</span>
-                </span>
-                <ul>
                 
-                  <!-- <li class="listing-item">
-                  <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-                  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-                  </li> -->
-                 <li >
-                    05-19
-                    <i class="fa fa-angle-double-right" aria-hidden="true"></i>
-                    <a href="/article/lutlife/" style="color: #0085a1">
-                        <span>
-                            研究生通关之路
-                        </span>
-                    </a>
-                    <!-- <p class="post-meta">{{ post.date | date:"%Y-%m-%d" }}</p> -->
-                </li>
-                
-                  <!-- <li class="listing-item">
-                  <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-                  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-                  </li> -->
-                 <li >
-                    05-19
-                    <i class="fa fa-angle-double-right" aria-hidden="true"></i>
-                    <a href="/article/python/" style="color: #0085a1">
-                        <span>
-                            Python学习笔记
-                        </span>
-                    </a>
-                    <!-- <p class="post-meta">{{ post.date | date:"%Y-%m-%d" }}</p> -->
-                </li>
-                
-                  <!-- <li class="listing-item">
-                  <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-                  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-                  </li> -->
-                 <li >
-                    02-08
-                    <i class="fa fa-angle-double-right" aria-hidden="true"></i>
-                    <a href="/article/writing/" style="color: #0085a1">
-                        <span>
-                            随意录
-                        </span>
-                    </a>
-                    <!-- <p class="post-meta">{{ post.date | date:"%Y-%m-%d" }}</p> -->
-                </li>
-                
-                  <!-- <li class="listing-item">
-                  <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-                  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-                  </li> -->
-                 <li >
-                    02-06
-                    <i class="fa fa-angle-double-right" aria-hidden="true"></i>
-                    <a href="/article/2025-2-6-moive/" style="color: #0085a1">
-                        <span>
-                            影评系列
-                        </span>
-                    </a>
-                    <!-- <p class="post-meta">{{ post.date | date:"%Y-%m-%d" }}</p> -->
-                </li>
-                
-                  <!-- <li class="listing-item">
-                  <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-                  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-                  </li> -->
-                 <li >
-                    02-04
-                    <i class="fa fa-angle-double-right" aria-hidden="true"></i>
-                    <a href="/article/jiaxuan/" style="color: #0085a1">
-                        <span>
-                            我的2025年度规划
-                        </span>
-                    </a>
-                    <!-- <p class="post-meta">{{ post.date | date:"%Y-%m-%d" }}</p> -->
-                </li>
-                
+                <hr>
+                <!-- Pager -->
+                <ul class="pager">
+                    
+                    
+                        <li class="next">
+                            <a href="/article/lutlife/" data-toggle="tooltip" data-placement="top" title="研究生通关之路">下一篇 &rarr;</a>
+                        </li>
+                    
                 </ul>
-            </div>
-            
-
-
-        </div>
-    </div>
-</div>
-
-<style type="text/css">
-
-   @media (min-width: 992px) {
-   .archive {
-       margin-left: 8.33333333%;
-       padding-right: 26.333333%;
-   }
-}
-</style>
-
-<style type="text/css">
-   @media (min-width: 1200px){
-   .archive {
-   margin-left: 16.66666667%;
-   padding-right: 16.666667%;
-   }
-}
-</style>
-
 
                 <br>
 
+                <!--打赏-->
+                
+                <!--打赏-->
+
+                <br>
+                <!--分享-->
+                
+                <!--分享-->
+                <br>                       
+                
                 <!-- require APlayer -->
                 
             </div>
+            
+            <!-- Tabe of Content -->
+            <!-- Table of Contents -->
 
-          <!-- Sidebar Container -->
-<div class="
-    col-lg-3 col-lg-offset-0
-    col-md-3 col-md-offset-0
-    col-sm-12
-    col-xs-12
-    sidebar-container
-">
+  
+    <style>
+      span.toc-nav-number{
+        display: none
+      }
+    </style>
+  
     
-        <!-- Featured Tags -->
+      <aside id="sidebar">
+        <div id="toc" class="toc-article">
+        <strong class="toc-title">目录</strong>
+        
+          <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-1"><a class="toc-nav-link"><span class="toc-nav-number">1.</span> <span class="toc-nav-text">Python学习笔记</span></a><ol class="toc-nav-child"><li class="toc-nav-item toc-nav-level-4"><a class="toc-nav-link"><span class="toc-nav-number">1.0.0.1.</span> <span class="toc-nav-text">注释：</span></a></li><li class="toc-nav-item toc-nav-level-4"><a class="toc-nav-link"><span class="toc-nav-number">1.0.0.2.</span> <span class="toc-nav-text">标识符的命名规则：</span></a></li><li class="toc-nav-item toc-nav-level-4"><a class="toc-nav-link"><span class="toc-nav-number">1.0.0.3.</span> <span class="toc-nav-text">变量</span></a></li><li class="toc-nav-item toc-nav-level-4"><a class="toc-nav-link"><span class="toc-nav-number">1.0.0.4.</span> <span class="toc-nav-text">数据类型</span></a></li></ol></li></ol></li></ol></li></ol>
+        
+        </div>
+      </aside>
+    
 
-<section>
-    <!-- no hr -->
-    <h5><a href="/tags/">文章分类</a></h5>
-    <div class="tags">
-        
-            
-            <a href="/tags/#我的人生" title="我的人生" rel="3">我的人生</a>
-            
-        
-            
-            <a href="/tags/#学习" title="学习" rel="1">学习</a>
-            
-        
-            
-            <a href="/tags/#记录生活" title="记录生活" rel="1">记录生活</a>
-            
-        
+                
+            <!-- Sidebar Container -->
+            <div class="
+                col-lg-8 col-lg-offset-2
+                col-md-10 col-md-offset-1
+                sidebar-container">
+
+                <!-- Featured Tags -->
+                
+                <section>
+                    <!-- no hr -->
+                    <h5><a href="/tags/">标签</a></h5>
+                    <div class="tags">
+                       
+                          <a class="tag" href="/tags/#学习" title="学习">学习</a>
+                        
+                    </div>
+                </section>
+                
+
+                <!-- Friends Blog -->
+				<!--
+                
+				-->
+            </div>
+        </div>
     </div>
-</section>
+</article>
 
-        <hr>
-    
-        <!-- Short About -->
-<section class="visible-md visible-lg">
-    <h5><a href="/about/">关于我</a></h5>
-    <div class="short-about">
 
-        
-            <img id = "avatar_pic" src="/img/avatar/headpicture.png" />
-        
+<!-- async load function -->
+<script>
+    function async(u, c) {
+      var d = document, t = 'script',
+          o = d.createElement(t),
+          s = d.getElementsByTagName(t)[0];
+      o.src = u;
+      if (c) { o.addEventListener('load', function (e) { c(null, e); }, false); }
+      s.parentNode.insertBefore(o, s);
+    }
+</script>
+<!-- anchor-js, Doc:http://bryanbraun.github.io/anchorjs/ -->
+<script>
+    async("https://cdn.bootcss.com/anchor-js/1.1.1/anchor.min.js",function(){
+        anchors.options = {
+          visible: 'hover',
+          placement: 'left',
+          icon: ''
+        };
+        anchors.add().remove('.intro-header h1').remove('.subheading').remove('.sidebar-container h5');
+    })
+</script>
+<style>
+    /* place left on bigger screen */
+    @media all and (min-width: 800px) {
+        .anchorjs-link{
+            position: absolute;
+            left: -0.75em;
+            font-size: 1.1em;
+            margin-top : -0.1em;
+        }
+    }
+</style>
 
-        
-            <p>在追求自己人生价值的路上...</p>
-        
 
-        <!-- SNS Link -->
-        <ul class="list-inline">
-            
-            
-            
-
-            
-			
-			
-			
-			
-
-            
-
-            
-                <li>
-                    <a target="_blank"  href="https://github.com/ThreeGoldQi" title="我的 GitHub 主页">
-                        <span class="fa-stack fa-lg">
-                            <i class="fa fa-circle fa-stack-2x"></i>
-                            <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-                        </span>
-                    </a>
-                </li>
-            
-            
-            
-            
-        </ul>
-    </div>
-</section>
-
-        <hr>
-    
-        <!-- Friends Blog -->
-
-        <hr>
-    
-        
-  <h5>最近更新</h3>
-  <div class="widget">
-    <ul>
-      
-        <li>
-          <a href="/article/python/">Python学习笔记</a>
-        </li>
-      
-        <li>
-          <a href="/article/lutlife/">研究生通关之路</a>
-        </li>
-      
-        <li>
-          <a href="/article/writing/">随意录</a>
-        </li>
-      
-        <li>
-          <a href="/article/2025-2-6-moive/">影评系列</a>
-        </li>
-      
-        <li>
-          <a href="/article/jiaxuan/">我的2025年度规划</a>
-        </li>
-      
-    </ul>
-  </div>
-
-        <hr>
-    
-        
-    <h5>归档</h5>
-    <div class="widget">
-      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2025/05/">May 2025</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2025/02/">February 2025</a><span class="archive-list-count">3</span></li></ul>
-    </div>
-
-        <hr>
-    
-        <!-- Categories -->
-
-        <hr>
-    
-        <!-- 每日一句 -->
-<h5 display="none">一句</h5>
-<ul class="list-inline">
-	<div id="hitokoto">:D 获取中...</div>
-	<script src="https://cdn.jsdelivr.net/npm/bluebird@3/js/browser/bluebird.min.js"></script>
-	<script src="https://cdn.jsdelivr.net/npm/whatwg-fetch@2.0.3/fetch.min.js"></script>
-	<!--End-->
-	<script>
-	  fetch('https://v1.hitokoto.cn')
-		.then(function (res){
-		  return res.json();
-		})
-		.then(function (data) {
-		  var hitokoto = document.getElementById('hitokoto');
-		  hitokoto.innerText = data.hitokoto; 
-		})
-		.catch(function (err) {
-		  console.error(err);
-		})
-	</script>
-</ul>
-        <hr>
-    
-        <!-- 今日诗词 -->
-<h5 display="none">一诗</h5>
-<ul class="list-inline">
-	<span id="jinrishici-sentence">:D 获取中...</span>
-	<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
-</ul>
-        <hr>
-    
-</div>
-
-        
-    </div>
-</div>
+<!-- chrome Firefox 中文锚点定位失效-->
+<script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+<!-- smooth scroll behavior polyfill  -->
+<script type="text/javascript" src="/js/smoothscroll.js"></script>
+<script>
+        $('#toc').on('click','a',function(a){
+            // var isChrome = window.navigator.userAgent.indexOf("Chrome") !== -1;
+            // console.log(window.navigator.userAgent,isChrome)
+                // if(isChrome) {
+                    // console.log(a.currentTarget.outerHTML);
+                    // console.log($(a.currentTarget).attr("href"));
+                    //跳转到指定锚点
+                    // document.getElementById(a.target.innerText.toLowerCase()).scrollIntoView(true);
+                    document.getElementById($(a.currentTarget).attr("href").replace("#","")).scrollIntoView({behavior: 'smooth' });
+                // }
+        })  
+</script>
 
 
     <!-- Footer -->
