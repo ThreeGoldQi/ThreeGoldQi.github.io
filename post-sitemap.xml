@@ -9,8 +9,8 @@
 
 
     <url>
-        <loc>https://threegoldqi.github.io/article/writing/</loc>
-        <lastmod>2025-06-22T08:06:07.571Z</lastmod>
+        <loc>https://threegoldqi.github.io/article/lutlife/</loc>
+        <lastmod>2025-06-22T08:42:34.191Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -18,7 +18,15 @@
 
     <url>
         <loc>https://threegoldqi.github.io/article/jiaxuan/</loc>
-        <lastmod>2025-06-22T08:06:07.567Z</lastmod>
+        <lastmod>2025-06-22T08:42:34.183Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://threegoldqi.github.io/article/writing/</loc>
+        <lastmod>2025-06-22T08:42:34.179Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -26,7 +34,7 @@
 
     <url>
         <loc>https://threegoldqi.github.io/article/2025-2-6-moive/</loc>
-        <lastmod>2025-06-22T08:06:07.562Z</lastmod>
+        <lastmod>2025-06-22T08:42:34.176Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -34,15 +42,7 @@
 
     <url>
         <loc>https://threegoldqi.github.io/article/python/</loc>
-        <lastmod>2025-06-22T08:06:07.557Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://threegoldqi.github.io/article/lutlife/</loc>
-        <lastmod>2025-06-22T08:06:07.550Z</lastmod>
+        <lastmod>2025-06-22T08:42:34.172Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

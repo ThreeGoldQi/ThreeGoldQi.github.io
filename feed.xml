@@ -10,7 +10,7 @@
     <link href="https://tyzhang.top/" rel="hub" />
     
     <link href="https://threegoldqi.github.io/" />
-    <updated>2025-06-22T08:06:07.557Z</updated>
+    <updated>2025-06-22T08:42:34.191Z</updated>
     <id>https://threegoldqi.github.io/</id>
     
     <author>
@@ -28,11 +28,23 @@
     <webfeeds:related layout="card" target="browser" />
     
     <entry>
+        <title>研究生通关之路</title>
+        <link href="https://threegoldqi.github.io/article/lutlife/" />
+        <id>https://threegoldqi.github.io/article/lutlife/</id>
+        <published>2025-05-18T16:00:00.000Z</published>
+        <updated>2025-06-22T08:42:34.191Z
+        </updated>
+            
+        <category term="life" scheme="https://threegoldqi.github.io/tags/life/" />
+        
+    </entry>
+    
+    <entry>
         <title>Python学习笔记</title>
         <link href="https://threegoldqi.github.io/article/python/" />
         <id>https://threegoldqi.github.io/article/python/</id>
         <published>2025-05-18T16:00:00.000Z</published>
-        <updated>2025-06-22T08:06:07.557Z
+        <updated>2025-06-22T08:42:34.172Z
         </updated>
         
         <content type="html">
@@ -44,19 +56,7 @@
 &lt;p&gt;’ ’ ’  或者  &amp;quot; &amp;quot; &amp;quot;&lt;/p&gt;
 &lt;h4&gt;&lt;span id=&quot;标识符的</summary>
             
-        <category term="学习" scheme="https://threegoldqi.github.io/tags/%E5%AD%A6%E4%B9%A0/" />
-        
-    </entry>
-    
-    <entry>
-        <title>研究生通关之路</title>
-        <link href="https://threegoldqi.github.io/article/lutlife/" />
-        <id>https://threegoldqi.github.io/article/lutlife/</id>
-        <published>2025-05-18T16:00:00.000Z</published>
-        <updated>2025-06-22T08:06:07.550Z
-        </updated>
-            
-        <category term="我的人生" scheme="https://threegoldqi.github.io/tags/%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F/" />
+        <category term="learning" scheme="https://threegoldqi.github.io/tags/learning/" />
         
     </entry>
     
@@ -65,7 +65,7 @@
         <link href="https://threegoldqi.github.io/article/writing/" />
         <id>https://threegoldqi.github.io/article/writing/</id>
         <published>2025-02-07T16:00:00.000Z</published>
-        <updated>2025-06-22T08:06:07.571Z
+        <updated>2025-06-22T08:42:34.179Z
         </updated>
         
         <content type="html">
@@ -75,7 +75,7 @@
         <summary type="html">&lt;h2&gt;&lt;span id=&quot;202528&quot;&gt;2025.2.8&lt;/span&gt;&lt;/h2&gt;
 &lt;p&gt;我发现啊，人有的时候不要装作迷茫，该清醒的时候就清醒。有的时候要明白自己到底想要什么，不要忘记自己本来的目标。最近这几天心情很down，干什么都提不起精神来，距离出分时间不多了，这段时间就</summary>
             
-        <category term="我的人生" scheme="https://threegoldqi.github.io/tags/%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F/" />
+        <category term="life" scheme="https://threegoldqi.github.io/tags/life/" />
         
     </entry>
     
@@ -84,7 +84,7 @@
         <link href="https://threegoldqi.github.io/article/2025-2-6-moive/" />
         <id>https://threegoldqi.github.io/article/2025-2-6-moive/</id>
         <published>2025-02-05T16:00:00.000Z</published>
-        <updated>2025-06-22T08:06:07.562Z
+        <updated>2025-06-22T08:42:34.176Z
         </updated>
         
         <content type="html">
@@ -95,7 +95,7 @@
 &lt;p&gt;考研学习政治的时候，涛涛老师推荐的这个电视剧，时间线是中国近代史，围绕着新文化运动和五四运动来展开的剧情。不得不说，真的是大制作啊，一词一句都很精良，值得学习其中人物的谈吐。&lt;br&gt;
 胡适之，在</summary>
             
-        <category term="记录生活" scheme="https://threegoldqi.github.io/tags/%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB/" />
+        <category term="recording" scheme="https://threegoldqi.github.io/tags/recording/" />
         
     </entry>
     
@@ -104,7 +104,7 @@
         <link href="https://threegoldqi.github.io/article/jiaxuan/" />
         <id>https://threegoldqi.github.io/article/jiaxuan/</id>
         <published>2025-02-03T16:00:00.000Z</published>
-        <updated>2025-06-22T08:06:07.567Z
+        <updated>2025-06-22T08:42:34.183Z
         </updated>
         
         <content type="html">
@@ -113,7 +113,7 @@
            
         <summary type="html">&lt;p&gt;写这篇博客此刻是2025年2月4号，等待24号的成绩，下面的规划是对本月的规划，日后什么走向还不确定，无法对一整年有个清晰的认知，但在个人方面，对自己的生活状态要有所调整，规范自己。今年也要多读书，多学习各方面的知识，可以多看一些经典的影视剧，想创建一个自己的影评博客，记录</summary>
             
-        <category term="我的人生" scheme="https://threegoldqi.github.io/tags/%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F/" />
+        <category term="life" scheme="https://threegoldqi.github.io/tags/life/" />
         
     </entry>
     
