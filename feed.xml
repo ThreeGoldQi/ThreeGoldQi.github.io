@@ -10,7 +10,7 @@
     <link href="https://tyzhang.top/" rel="hub" />
     
     <link href="https://threegoldqi.github.io/" />
-    <updated>2025-06-22T08:06:07.557Z</updated>
+    <updated>2025-06-22T08:06:07.550Z</updated>
     <id>https://threegoldqi.github.io/</id>
     
     <author>
@@ -28,27 +28,6 @@
     <webfeeds:related layout="card" target="browser" />
     
     <entry>
-        <title>Python学习笔记</title>
-        <link href="https://threegoldqi.github.io/article/python/" />
-        <id>https://threegoldqi.github.io/article/python/</id>
-        <published>2025-05-18T16:00:00.000Z</published>
-        <updated>2025-06-22T08:06:07.557Z
-        </updated>
-        
-        <content type="html">
-            <![CDATA[ <h1><span id="python学习笔记">Python学习笔记</span></h1><h4><span id="注释">注释：</span></h4><p>’ ’ ’  或者  &quot; &quot; &quot;</p><h4><span id="标识符的命名规则">标识符的命名规则：</span></h4><ol><li>由数字、字母、下划线组成，不能以数字开头</li><li>严格区分大小写，age和Age是两个不同的标识符</li><li>不能使用关键字命名<br>我习惯采用大驼峰命名法，即每个单词的首字母要大写</li></ol><h4><span id="变量">变量</span></h4><ol><li>Python 中的变量赋值不需要类型声明</li><li>如何赋值：变量名 = 值          例如：name = “北大”       print(name)</li><li>可以多个变量同时赋值          例如：x = y = z = 12</li></ol><h4><span id="数据类型">数据类型</span></h4><p>有六个基本数据类型：Number（数字）  String（字符串）  List（列表） Tuple （元组） Set（集合）  Dictionary（字典）</p> ]]>
-        </content>
-           
-        <summary type="html">&lt;h1&gt;&lt;span id=&quot;python学习笔记&quot;&gt;Python学习笔记&lt;/span&gt;&lt;/h1&gt;
-&lt;h4&gt;&lt;span id=&quot;注释&quot;&gt;注释：&lt;/span&gt;&lt;/h4&gt;
-&lt;p&gt;’ ’ ’  或者  &amp;quot; &amp;quot; &amp;quot;&lt;/p&gt;
-&lt;h4&gt;&lt;span id=&quot;标识符的</summary>
-            
-        <category term="学习" scheme="https://threegoldqi.github.io/tags/%E5%AD%A6%E4%B9%A0/" />
-        
-    </entry>
-    
-    <entry>
         <title>研究生通关之路</title>
         <link href="https://threegoldqi.github.io/article/lutlife/" />
         <id>https://threegoldqi.github.io/article/lutlife/</id>
@@ -57,6 +36,25 @@
         </updated>
             
         <category term="我的人生" scheme="https://threegoldqi.github.io/tags/%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F/" />
+        
+    </entry>
+    
+    <entry>
+        <title>Python学习笔记</title>
+        <link href="https://threegoldqi.github.io/article/python/" />
+        <id>https://threegoldqi.github.io/article/python/</id>
+        <published>2025-05-18T16:00:00.000Z</published>
+        <updated>2025-06-22T08:06:07.557Z
+        </updated>
+        
+        <content type="html">
+            <![CDATA[ <h1><span id="python学习笔记">Python学习笔记</span></h1><h4><span id="注释">注释：</span></h4><p>‘ ‘ ‘  或者  “ “ “</p><h4><span id="标识符的命名规则">标识符的命名规则：</span></h4><ol><li>由数字、字母、下划线组成，不能以数字开头</li><li>严格区分大小写，age和Age是两个不同的标识符</li><li>不能使用关键字命名<br>我习惯采用大驼峰命名法，即每个单词的首字母要大写<h4><span id="变量">变量</span></h4></li><li>Python 中的变量赋值不需要类型声明</li><li>如何赋值：变量名 = 值          例如：name = “北大”       print(name)</li><li>可以多个变量同时赋值          例如：x = y = z = 12<h4><span id="数据类型">数据类型</span></h4>有六个基本数据类型：Number（数字）  String（字符串）  List（列表） Tuple （元组） Set（集合）  Dictionary（字典）</li></ol> ]]>
+        </content>
+           
+        <summary type="html">&lt;h1&gt;&lt;span id=&quot;python学习笔记&quot;&gt;Python学习笔记&lt;/span&gt;&lt;/h1&gt;&lt;h4&gt;&lt;span id=&quot;注释&quot;&gt;注释：&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;‘ ‘ ‘  或者  “ “ “&lt;/p&gt;
+&lt;h4&gt;&lt;span id=&quot;标识符的命名规则&quot;&gt;标识符的命名规则：&lt;/</summary>
+            
+        <category term="学习" scheme="https://threegoldqi.github.io/tags/%E5%AD%A6%E4%B9%A0/" />
         
     </entry>
     
@@ -72,8 +70,7 @@
             <![CDATA[ <h2><span id="202528">2025.2.8</span></h2><p>我发现啊，人有的时候不要装作迷茫，该清醒的时候就清醒。有的时候要明白自己到底想要什么，不要忘记自己本来的目标。最近这几天心情很down，干什么都提不起精神来，距离出分时间不多了，这段时间就把C语言学好，学习一下计算机的基础知识，运动，控制饮食就好。时刻提醒自己想要走的道路。<br>-如果考上研究生：我想在研一就开始准备考公，稳定有地位的工作是我的追求。<br>-如果没有考上研究生，我还是想考公务员，可是现实问题是我没有收入来源，考公也不是一次就能考上吧，所以呢，这条路还是没有那么容易的。</p><h2><span id="2025225">2025.2.25</span></h2><p>回答2.8日焦虑的自己，我考上啦！初试成绩292，真的真的比我预想的要高了好多哦，感谢上天保佑啊。那这样的话，接下来我要全心全意的准备复试，我不要给自己留下漏洞，下面20天拼啦！<br>回想去年一年，我好像一直都很痛苦，担心的这个结果，现在终于有了结果，我也要开始重新生活了！现在眼前好像有一束光照着我，这一年多亏了有宝宝陪着我！不然我自己早就崩溃了。接下来我会努力做好自己的本职工作，走好每一步脚印，为未来的选择早早的布局，要更加的乐观。对待事情淡然一点。<br>现在的我坐在深圳大学城的图书馆里，这里面氛围真的很棒，我很喜欢，如果可以想在里面呆上一整天。好多人一起学习的感觉不错。</p><h2><span id="2025519">2025.5.19</span></h2><p>自从拟录取后，荒废了很多时日，不能就此荒废下去了。因为我不是一个人在奋斗，我还有宝贝，还有我们未来的家🏠。以后的日子过得怎么样，只有我自己能选择的了。</p> ]]>
         </content>
            
-        <summary type="html">&lt;h2&gt;&lt;span id=&quot;202528&quot;&gt;2025.2.8&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;我发现啊，人有的时候不要装作迷茫，该清醒的时候就清醒。有的时候要明白自己到底想要什么，不要忘记自己本来的目标。最近这几天心情很down，干什么都提不起精神来，距离出分时间不多了，这段时间就</summary>
+        <summary type="html">&lt;h2&gt;&lt;span id=&quot;202528&quot;&gt;2025.2.8&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;我发现啊，人有的时候不要装作迷茫，该清醒的时候就清醒。有的时候要明白自己到底想要什么，不要忘记自己本来的目标。最近这几天心情很down，干什么都提不起精神来，距离出分时间不多了，这段时间就把</summary>
             
         <category term="我的人生" scheme="https://threegoldqi.github.io/tags/%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F/" />
         
@@ -91,9 +88,7 @@
             <![CDATA[ <h1><span id="觉醒年代">《觉醒年代》！</span></h1><p>考研学习政治的时候，涛涛老师推荐的这个电视剧，时间线是中国近代史，围绕着新文化运动和五四运动来展开的剧情。不得不说，真的是大制作啊，一词一句都很精良，值得学习其中人物的谈吐。<br>胡适之，在面对所有人与自己的思想不和的时候，他也没有与别人反目成仇，仍旧可以诚挚的对待陈独秀和李大钊。这个真的是个值得学习的地方。</p> ]]>
         </content>
            
-        <summary type="html">&lt;h1&gt;&lt;span id=&quot;觉醒年代&quot;&gt;《觉醒年代》！&lt;/span&gt;&lt;/h1&gt;
-&lt;p&gt;考研学习政治的时候，涛涛老师推荐的这个电视剧，时间线是中国近代史，围绕着新文化运动和五四运动来展开的剧情。不得不说，真的是大制作啊，一词一句都很精良，值得学习其中人物的谈吐。&lt;br&gt;
-胡适之，在</summary>
+        <summary type="html">&lt;h1&gt;&lt;span id=&quot;觉醒年代&quot;&gt;《觉醒年代》！&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;考研学习政治的时候，涛涛老师推荐的这个电视剧，时间线是中国近代史，围绕着新文化运动和五四运动来展开的剧情。不得不说，真的是大制作啊，一词一句都很精良，值得学习其中人物的谈吐。&lt;br&gt;胡适之，在面对</summary>
             
         <category term="记录生活" scheme="https://threegoldqi.github.io/tags/%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB/" />
         
@@ -108,7 +103,7 @@
         </updated>
         
         <content type="html">
-            <![CDATA[ <p>写这篇博客此刻是2025年2月4号，等待24号的成绩，下面的规划是对本月的规划，日后什么走向还不确定，无法对一整年有个清晰的认知，但在个人方面，对自己的生活状态要有所调整，规范自己。今年也要多读书，多学习各方面的知识，可以多看一些经典的影视剧，想创建一个自己的影评博客，记录心得，还可以创建读书博客，记录自己读过的书籍。在身体方面，多注意饮食健康，要减肥，运动运动运动！作息尽量保持规律吧，不要熬夜。2月份是自我提升的时期，天时地利人和，要好好利用起来！<br>在这一年内，我要快速的提升自己，趁现在有大把的时间。我要多多看书，多多提升自己的眼界。中国不差人，但是差人才，不要焦虑，先一步步的提升自己。穷人的孩子要做好大气晚成的准备</p><h1><span id="我进复试啦">我进复试啦！</span></h1><p>接下来全力准备复试，复试之后再安排自己的新生活！！</p><h1><span id="我录取啦">我录取啦！</span></h1><p>接下来的规划，要让自己成为更厉害的人。<br>生活上：</p><ol><li>减肥到110，控制饮食</li><li>坚持运动</li><li>让自己生活充实</li></ol><p>学习上：</p><ol><li>学专业</li><li>学英语，以及备战12月份的六级</li><li>学技术，电脑等知识</li><li>了解考公相关</li></ol><p>兴趣爱好上：</p><ol><li>兴趣爱好-摄影，平板绘画</li><li>多读书</li><li>坚持写博客</li></ol><p>不要浪费时间，现在没有你可以浪费掉的了！！</p><h1><span id="五月份计划">五月份计划</span></h1><ol><li>学完python</li><li>找到生活和学习的节奏，对自己的目标要清晰</li><li>坚持学英语</li></ol> ]]>
+            <![CDATA[ <p>写这篇博客此刻是2025年2月4号，等待24号的成绩，下面的规划是对本月的规划，日后什么走向还不确定，无法对一整年有个清晰的认知，但在个人方面，对自己的生活状态要有所调整，规范自己。今年也要多读书，多学习各方面的知识，可以多看一些经典的影视剧，想创建一个自己的影评博客，记录心得，还可以创建读书博客，记录自己读过的书籍。在身体方面，多注意饮食健康，要减肥，运动运动运动！作息尽量保持规律吧，不要熬夜。2月份是自我提升的时期，天时地利人和，要好好利用起来！<br>在这一年内，我要快速的提升自己，趁现在有大把的时间。我要多多看书，多多提升自己的眼界。中国不差人，但是差人才，不要焦虑，先一步步的提升自己。穷人的孩子要做好大气晚成的准备</p><h1><span id="我进复试啦">我进复试啦！</span></h1><p>接下来全力准备复试，复试之后再安排自己的新生活！！</p><h1><span id="我录取啦">我录取啦！</span></h1><p>接下来的规划，要让自己成为更厉害的人。<br>生活上：</p><ol><li>减肥到110，控制饮食 </li><li>坚持运动</li><li>让自己生活充实</li></ol><p>学习上：</p><ol><li>学专业</li><li>学英语，以及备战12月份的六级</li><li>学技术，电脑等知识</li><li>了解考公相关</li></ol><p>兴趣爱好上：</p><ol><li>兴趣爱好-摄影，平板绘画 </li><li>多读书</li><li>坚持写博客</li></ol><p>不要浪费时间，现在没有你可以浪费掉的了！！</p><h1><span id="五月份计划">五月份计划</span></h1><ol><li>学完python</li><li>找到生活和学习的节奏，对自己的目标要清晰</li><li>坚持学英语</li></ol> ]]>
         </content>
            
         <summary type="html">&lt;p&gt;写这篇博客此刻是2025年2月4号，等待24号的成绩，下面的规划是对本月的规划，日后什么走向还不确定，无法对一整年有个清晰的认知，但在个人方面，对自己的生活状态要有所调整，规范自己。今年也要多读书，多学习各方面的知识，可以多看一些经典的影视剧，想创建一个自己的影评博客，记录</summary>
