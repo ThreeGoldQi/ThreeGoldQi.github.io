@@ -10,7 +10,7 @@
     <link href="https://tyzhang.top/" rel="hub" />
     
     <link href="https://threegoldqi.github.io/" />
-    <updated>2025-06-22T08:42:34.172Z</updated>
+    <updated>2025-08-13T06:09:14.473Z</updated>
     <id>https://threegoldqi.github.io/</id>
     
     <author>
@@ -26,6 +26,18 @@
     <webfeeds:logo>https://cdn.jsdelivr.net/gh/hayschan/static@master/2020/12/XDzm9G.svg</webfeeds:logo>
     <webfeeds:accentColor>0abab5</webfeeds:accentColor>
     <webfeeds:related layout="card" target="browser" />
+    
+    <entry>
+        <title>研究生通关之路</title>
+        <link href="https://threegoldqi.github.io/article/lutlife/" />
+        <id>https://threegoldqi.github.io/article/lutlife/</id>
+        <published>2025-05-18T16:00:00.000Z</published>
+        <updated>2025-08-13T06:09:14.473Z
+        </updated>
+            
+        <category term="life" scheme="https://threegoldqi.github.io/tags/life/" />
+        
+    </entry>
     
     <entry>
         <title>Python学习笔记</title>
@@ -49,23 +61,11 @@
     </entry>
     
     <entry>
-        <title>研究生通关之路</title>
-        <link href="https://threegoldqi.github.io/article/lutlife/" />
-        <id>https://threegoldqi.github.io/article/lutlife/</id>
-        <published>2025-05-18T16:00:00.000Z</published>
-        <updated>2025-06-22T08:42:34.191Z
-        </updated>
-            
-        <category term="life" scheme="https://threegoldqi.github.io/tags/life/" />
-        
-    </entry>
-    
-    <entry>
         <title>随意录</title>
         <link href="https://threegoldqi.github.io/article/writing/" />
         <id>https://threegoldqi.github.io/article/writing/</id>
         <published>2025-02-07T16:00:00.000Z</published>
-        <updated>2025-06-22T08:42:34.179Z
+        <updated>2025-08-13T06:09:14.473Z
         </updated>
         
         <content type="html">
@@ -84,7 +84,7 @@
         <link href="https://threegoldqi.github.io/article/2025-2-6-moive/" />
         <id>https://threegoldqi.github.io/article/2025-2-6-moive/</id>
         <published>2025-02-05T16:00:00.000Z</published>
-        <updated>2025-06-22T08:42:34.176Z
+        <updated>2025-08-13T06:09:14.474Z
         </updated>
         
         <content type="html">
@@ -104,7 +104,7 @@
         <link href="https://threegoldqi.github.io/article/jiaxuan/" />
         <id>https://threegoldqi.github.io/article/jiaxuan/</id>
         <published>2025-02-03T16:00:00.000Z</published>
-        <updated>2025-06-22T08:42:34.183Z
+        <updated>2025-08-13T06:09:14.473Z
         </updated>
         
         <content type="html">
