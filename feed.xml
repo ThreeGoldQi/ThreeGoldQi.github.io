@@ -10,7 +10,7 @@
     <link href="https://tyzhang.top/" rel="hub" />
     
     <link href="https://threegoldqi.github.io/" />
-    <updated>2025-08-13T07:33:37.501Z</updated>
+    <updated>2025-08-13T06:37:30.369Z</updated>
     <id>https://threegoldqi.github.io/</id>
     
     <author>
@@ -26,6 +26,25 @@
     <webfeeds:logo>https://cdn.jsdelivr.net/gh/hayschan/static@master/2020/12/XDzm9G.svg</webfeeds:logo>
     <webfeeds:accentColor>0abab5</webfeeds:accentColor>
     <webfeeds:related layout="card" target="browser" />
+    
+    <entry>
+        <title>Python学习笔记</title>
+        <link href="https://threegoldqi.github.io/article/python/" />
+        <id>https://threegoldqi.github.io/article/python/</id>
+        <published>2025-05-18T16:00:00.000Z</published>
+        <updated>2025-08-13T06:37:30.369Z
+        </updated>
+        
+        <content type="html">
+            <![CDATA[ <h1><span id="python学习笔记">Python学习笔记</span></h1><h4><span id="注释">注释：</span></h4><p>‘ ‘ ‘  或者  “ “ “</p><h4><span id="标识符的命名规则">标识符的命名规则：</span></h4><ol><li>由数字、字母、下划线组成，不能以数字开头</li><li>严格区分大小写，age和Age是两个不同的标识符</li><li>不能使用关键字命名<br>我习惯采用大驼峰命名法，即每个单词的首字母要大写<h4><span id="变量">变量</span></h4></li><li>Python 中的变量赋值不需要类型声明</li><li>如何赋值：变量名 = 值          例如：name = “北大”       print(name)</li><li>可以多个变量同时赋值          例如：x = y = z = 12<h4><span id="数据类型">数据类型</span></h4>有六个基本数据类型：Number（数字）  String（字符串）  List（列表） Tuple （元组） Set（集合）  Dictionary（字典）</li></ol> ]]>
+        </content>
+           
+        <summary type="html">&lt;h1&gt;&lt;span id=&quot;python学习笔记&quot;&gt;Python学习笔记&lt;/span&gt;&lt;/h1&gt;&lt;h4&gt;&lt;span id=&quot;注释&quot;&gt;注释：&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;‘ ‘ ‘  或者  “ “ “&lt;/p&gt;
+&lt;h4&gt;&lt;span id=&quot;标识符的命名规则&quot;&gt;标识符的命名规则：&lt;/</summary>
+            
+        <category term="learning" scheme="https://threegoldqi.github.io/tags/learning/" />
+        
+    </entry>
     
     <entry>
         <title>研究生通关之路</title>
@@ -50,25 +69,6 @@
     </entry>
     
     <entry>
-        <title>Python学习笔记</title>
-        <link href="https://threegoldqi.github.io/article/python/" />
-        <id>https://threegoldqi.github.io/article/python/</id>
-        <published>2025-05-18T16:00:00.000Z</published>
-        <updated>2025-08-13T06:37:30.369Z
-        </updated>
-        
-        <content type="html">
-            <![CDATA[ <h1><span id="python学习笔记">Python学习笔记</span></h1><h4><span id="注释">注释：</span></h4><p>‘ ‘ ‘  或者  “ “ “</p><h4><span id="标识符的命名规则">标识符的命名规则：</span></h4><ol><li>由数字、字母、下划线组成，不能以数字开头</li><li>严格区分大小写，age和Age是两个不同的标识符</li><li>不能使用关键字命名<br>我习惯采用大驼峰命名法，即每个单词的首字母要大写<h4><span id="变量">变量</span></h4></li><li>Python 中的变量赋值不需要类型声明</li><li>如何赋值：变量名 = 值          例如：name = “北大”       print(name)</li><li>可以多个变量同时赋值          例如：x = y = z = 12<h4><span id="数据类型">数据类型</span></h4>有六个基本数据类型：Number（数字）  String（字符串）  List（列表） Tuple （元组） Set（集合）  Dictionary（字典）</li></ol> ]]>
-        </content>
-           
-        <summary type="html">&lt;h1&gt;&lt;span id=&quot;python学习笔记&quot;&gt;Python学习笔记&lt;/span&gt;&lt;/h1&gt;&lt;h4&gt;&lt;span id=&quot;注释&quot;&gt;注释：&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;‘ ‘ ‘  或者  “ “ “&lt;/p&gt;
-&lt;h4&gt;&lt;span id=&quot;标识符的命名规则&quot;&gt;标识符的命名规则：&lt;/</summary>
-            
-        <category term="learning" scheme="https://threegoldqi.github.io/tags/learning/" />
-        
-    </entry>
-    
-    <entry>
         <title>影评系列</title>
         <link href="https://threegoldqi.github.io/article/2025-2-6-moive/" />
         <id>https://threegoldqi.github.io/article/2025-2-6-moive/</id>
@@ -87,11 +87,11 @@
     </entry>
     
     <entry>
-        <title>我的2025年度计划</title>
+        <title>我的2025</title>
         <link href="https://threegoldqi.github.io/article/jiaxuan/" />
         <id>https://threegoldqi.github.io/article/jiaxuan/</id>
         <published>2025-02-03T16:00:00.000Z</published>
-        <updated>2025-08-13T08:31:51.989Z
+        <updated>2025-08-13T08:42:24.366Z
         </updated>
         
         <content type="html">
